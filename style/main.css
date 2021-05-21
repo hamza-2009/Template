@@ -1,0 +1,15 @@
+.icon{
+    font-size: 5rem;
+}
+.icon2
+{
+    color: red;
+}
+
+.nav-hover:hover{
+   background-color: cadetblue;
+    transition: 1s;
+}
+li {
+color: white;
+}
